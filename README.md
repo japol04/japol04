@@ -1,16 +1,22 @@
 ## Hi there 👋
 
-<!--
-**japol04/japol04** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+About me
+ BSIT Student at Laguna State Polytechnic University
+ currently studying: Dart, Flutter,SQL,PHP
+ Goal: To become proficient Web and mobile developer
+ Interested in UI/UX design, Problem solving
 
-Here are some ideas to get you started:
+ Skills 
+ Languages: Python, Dart,
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Frameworks/Tools: Flask, Flutter
+
+Additional Skills: Database Designing Basics, Mobile App development fundamentals
+
+Current Projects
+Capstone Project
+Creatring some programs for portfolio
+Some simple flutter small programs
+
+Contact Me here:
+jhonpaulstodomingo21@gmail.com
