@@ -1,4 +1,4 @@
-## Hello there! 👋 I am John Paul Sto Domingo
+          ## Hello there! 👋 I am John Paul Sto Domingo
 
 **🎓 4th year BSIT Student at Laguna State Polytechnic University**  
 
