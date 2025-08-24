@@ -1,4 +1,4 @@
-## Hello there
+## Hello there! 👋
 <!--
 **🎓 4th year BSIT Student at Laguna State Polytechnic University**  
 **💻 Skills:** Python, Dart, Flutter, SQL  
