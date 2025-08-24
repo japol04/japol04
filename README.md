@@ -1,4 +1,4 @@
-<p align="center"><b>Hello there!</b>b 👋 I am John Paul Sto Domingo</p>
+<p align="center"><b>Hello there!</b> 👋 I am John Paul Sto Domingo</p>
 
 
 **🎓 4th year BSIT Student at Laguna State Polytechnic University**  
